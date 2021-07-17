@@ -13,6 +13,6 @@ A front end based react app which is backed by firebase for the backend purpose
 
 https://clone-ed45e.web.app
 
-### (It is not mobile responsive, will work on tha part)
+### (It is not mobile responsive, will work on that part)
 
 
